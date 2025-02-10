@@ -13,21 +13,8 @@ pnpm dev
 # or
 bun dev
 ```
-netflix-clone/
-├── app/
-│   ├── layout.tsx
-│   ├── page.tsx
-│   └── globals.css
-├── components/
-│   └── ui/
-│       ├── avatar.tsx
-│       ├── card.tsx
-│       └── scroll-area.tsx
-├── lib/
-│   └── utils.ts
-├── public/
-├── tailwind.config.js
-└── package.json
+![image](https://github.com/user-attachments/assets/e3616903-9c89-4746-aa14-15c1745ec695)
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
